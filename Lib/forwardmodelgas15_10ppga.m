@@ -60,7 +60,7 @@ N_exc = numel(qn);
 sigma_k = 10^(sigma_k_log);
 sigma_row = sigma_k * (qn(:)'.^(1/3));     % 1xN_exc
 
-% NOTE: sigma_ome was unused in your original; removed for clarity.
+
 
 mm = 1;
 

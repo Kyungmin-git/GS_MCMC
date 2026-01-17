@@ -23,9 +23,9 @@
 cfg = struct();
 
 % --- I/O
-cfg.libPath1   = '/path_to_dir/GS_MCMC_code1/Lib_GS';
-cfg.workPath   = '/path_to_dir/GS_MCMC_code1/MCMC_cluster32';
-cfg.datapath   = '/path_to_dir/GS_MCMC_code1/Data_file';
+cfg.libPath1   = '/Users/kyuninkim/Downloads/GS_MCMC_code1/Lib_GS';
+cfg.workPath   = '/Users/kyuninkim/Downloads/GS_MCMC_code1/MCMC_cluster32';
+cfg.datapath   = '/Users/kyuninkim/Downloads/GS_MCMC_code1/Data_file';
 cfg.tarFile    = 'GreatSitkin_May26_2021.290510.tar.mseed';
 cfg.mseedFile  = 'GreatSitkin_May26_2021.290510/GSSP.AV.mseed';
 cfg.metaFile   = 'IRISDMC-GSSP.AV.meta';
